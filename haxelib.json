@@ -1,0 +1,19 @@
+{
+	"name": "rhaxe",
+	"contributors": ["Rzial"],
+
+	"version": "1.0.0",
+	"description": "Rhaxe (Haxe Runner) is a tool inspired in NodeJS 'gulp' package made to automate your build and testing process.",
+	"releasenote": "Check CHANGELOG.md.",
+
+	"main": "Rhaxe",
+	"classPath": "src/main/haxe",
+	"dependencies": {},
+
+	"tags": [
+		"utility"
+	],
+
+	"url" : "https://github.com/Rzial/haxe-rhaxe/",
+	"license": "MIT"
+}

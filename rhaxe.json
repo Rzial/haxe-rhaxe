@@ -1,0 +1,19 @@
+{
+    "name": "rhaxe",
+    "contributors": ["Rzial"],
+
+    "version": "0.1.0",
+    "description": "Haxe task runner.",
+    "releasenote": "Initial release",
+
+    "main": "rhaxe.Rhaxe",
+    "classPath": "src/main/haxe",
+    "dependencies": {},
+
+    "tags": [
+        "utility"
+    ],
+
+    "url" : "https://github.com/Rzial/haxe-rhaxe/",
+    "license": "MIT"
+}
